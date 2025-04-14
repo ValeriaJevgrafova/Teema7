@@ -1,0 +1,10 @@
+﻿Esimene
+Teine
+Kolmas
+Neljas
+Viies
+Kuues
+Seitsmes
+Kaheksas
+Üheksas
+Kümnes
